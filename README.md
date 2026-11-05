@@ -97,14 +97,14 @@ goal:      Software engineering internships on backend / infrastructure teams
   <img src="https://leetcard.jacoblin.cool/venkatbalac25?theme=dark&font=Karla&ext=heatmap" width="70%"/>
 </div>
 
-<!-- ============ SNAKE (files github-snake.svg and github-snake-dark.svg live in the repo root on main) ============ -->
+<!-- ============ SNAKE (files github-snake.svg and github-snake-dark.svg live in the repo root on the output branch) ============ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/main/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/main/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/output/github-snake-dark.svg" />
   </picture>
 </div>
 
