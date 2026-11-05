@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Hi%2C%20I'm%20Venkatraman&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%7C%20Distributed%20Systems%20%7C%20Applied%20AI&descSize=18&descAlignY=58" width="100%" alt="banner"/>
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="https://github.com/Venkatraman-web">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7C83FF&center=true&vCenter=true&width=720&lines=Building+reliable+backend+%26+distributed+systems;Go+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Terraform;Applied+AI%3A+LLMs%2C+RAG+%26+geospatial+forensics;CSE+%40+BIT+Mesra+%7C+Class+of+2029;400%2B+LeetCode+problems+solved" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=7C83FF&center=true&vCenter=true&width=820&lines=Building+reliable+backend+%26+distributed+systems;Go+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Terraform;Applied+AI%3A+LLMs%2C+RAG+%26+SAR+forensics;CSE+%40+BIT+Mesra+%7C+Class+of+2029;400%2B+LeetCode+problems+solved" alt="typing"/>
 </a>
 <br/>
 <!-- ============ BADGES ============ -->
@@ -102,9 +102,9 @@ goal:      Software engineering internships on backend / infrastructure teams
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web/main/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web/main/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/main/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Venkatraman-web/Venkatraman-web-README/main/github-snake-dark.svg" />
   </picture>
 </div>
 
